@@ -14,14 +14,16 @@
     "react-redux": "^5.0.6",
     "react-scripts": "1.0.17",
     "redux": "^3.7.2",
+    "redux-devtools-extension": "^2.13.2",
     "redux-persist": "4.8.2",
-    "sfcookies": "^1.0.2",
-    "redux-devtools-extension": "^2.13.2"
+    "seamless-immutable": "^7.1.2",
+    "sfcookies": "^1.0.2"
   },
   "devDependencies": {
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
     "jest-cli": "20.0.4",
-    "react-test-renderer": "^16.2.0"
+    "react-test-renderer": "^16.2.0",
+    "redux-testkit": "^1.0.6"
   }
 }
